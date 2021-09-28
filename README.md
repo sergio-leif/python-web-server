@@ -24,4 +24,10 @@ If you want to work with the development environment, try
     export FLASK_ENV=development
 ```
 
+To run the app, execute the command:
+If you want to work with the development environment, try
+```
+    flask run
+```
+
 More help, you can follow the documentation for Flask https://flask.palletsprojects.com/en/1.1.x/quickstart/
